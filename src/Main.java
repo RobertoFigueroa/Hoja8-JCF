@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        //instancias útiles:
+        //instancias utiles:
         PriorityQueue<Patient> hospitalTurns = new PriorityQueue<>();
         Scanner input = new Scanner(System.in);
         int opc = 1;
