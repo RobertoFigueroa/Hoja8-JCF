@@ -43,13 +43,6 @@ public class Patient implements Comparable<Patient> {
     }
 
     /**
-     * @return this priority
-     */
-    public String toString(){
-        return priority;
-    }
-
-    /**
      * @return print of patient
      */
     public String getInfo(){
